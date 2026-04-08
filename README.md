@@ -1,7 +1,7 @@
 # Quantum Machine Learning — Research Portfolio
 
 **Vaishnavi Bhardwaj**  
-Department of Computer Engineering  
+Department of Computer Science Engineering  
 J.C. Bose University of Science and Technology, YMCA, Faridabad, India  
 📧 vbhardwaj1002@gmail.com
 

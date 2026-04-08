@@ -22,7 +22,7 @@ The work spans my M.Tech thesis and independent research publications, collectiv
 
 Applies Quantum Support Vector Machines to identify cryptographic key leakage from power/EM side-channel traces. Uses quantum kernel methods to distinguish traffic patterns associated with different key hypotheses — a task that demands high-dimensional feature discrimination where quantum feature maps offer a natural advantage.
 
-📁 [`traffic-pattern-qsvm-side-channel/`](./Traffic Pattern Analysis/)
+
 
 ---
 
@@ -31,7 +31,7 @@ Applies Quantum Support Vector Machines to identify cryptographic key leakage fr
 
 Proposes a Hybrid Quantum Kernel Support Vector Regression (QKSVR) framework for predicting the electronic bandgap (Eᵍ) of hybrid organic-inorganic halide perovskites. Achieves R² = 0.9806 and RMSE = 0.0618 eV using only 3 features selected via Kernel-Target Alignment (KTA = 0.8337).
 
-📁 [`quantum-kernel-svr-perovskite-bandgap/`](./quantum-kernel-svr-perovskite-bandgap/)
+
 
 ---
 
@@ -40,7 +40,7 @@ Proposes a Hybrid Quantum Kernel Support Vector Regression (QKSVR) framework for
 
 Uses fidelity-based quantum kernels with KTA-driven feature selection to predict resistance to Ampicillin, Ciprofloxacin, and Cefotaxime in *E. coli* from whole-genome data (NCBI MicroBIGG-E). Achieves 96–97% accuracy across all three drug classes on datasets of up to 49,847 isolates.
 
-📁 [`alignment-aware-qsvm-amr/`](./alignment-aware-qsvm-amr/)
+
 
 ---
 
@@ -49,7 +49,7 @@ Uses fidelity-based quantum kernels with KTA-driven feature selection to predict
 
 Evaluates a ZZFeatureMap-based Quantum Kernel SVM and a Variational Quantum Classifier (VQC) on the SWaT water treatment testbed dataset. Proposes a novel 4-stage preprocessing pipeline (group-wise normalization → CORAL domain adaptation → ICA → angular scaling) achieving F1 = 0.9851 and AUC = 0.9998.
 
-📁 [`qml-anomaly-detection-cps/`](./qml-anomaly-detection-cps/)
+
 
 ---
 

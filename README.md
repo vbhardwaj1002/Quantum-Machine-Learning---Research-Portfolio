@@ -22,7 +22,7 @@ The work spans my M.Tech thesis and independent research publications, collectiv
 
 Applies Quantum Support Vector Machines to identify cryptographic key leakage from power/EM side-channel traces. Uses quantum kernel methods to distinguish traffic patterns associated with different key hypotheses — a task that demands high-dimensional feature discrimination where quantum feature maps offer a natural advantage.
 
-📁 [`traffic-pattern-qsvm-side-channel/`](./traffic-pattern-qsvm-side-channel/)
+📁 [`traffic-pattern-qsvm-side-channel/`](.Traffic Pattern Analysis/)
 
 ---
 
